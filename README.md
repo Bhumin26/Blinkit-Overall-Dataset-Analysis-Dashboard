@@ -25,3 +25,6 @@ Sales are analyzed by geographic location, comparing performance across differen
 A comprehensive overview of all metrics is provided, categorized by outlet type, including grocery stores and various types of supermarkets.
 
 This report summarizes the findings presented in the dashboard, which effectively visualizes key sales metrics and trends across multiple dimensions. The insights are valuable for understanding sales dynamics in different city tiers and guiding strategic decisions.
+
+![blinkit dashboard ](https://github.com/user-attachments/assets/d3505032-659a-42db-afa1-7cf34a2861b9)
+
